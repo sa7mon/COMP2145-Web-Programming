@@ -1,4 +1,8 @@
 <?php
+/** 
+* index.php - Displays the shopping cart and allows for adds and removals.
+* Created on: 9/28/14
+*/
 session_start();
 
 // Declare and fill in an array of products to display
